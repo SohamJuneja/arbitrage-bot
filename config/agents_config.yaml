@@ -1,0 +1,5 @@
+agent10:
+  address: "inj1your-injective-wallet-address"
+  created_at: '2024-03-02'
+  private_key: "your-wallet-private-key"
+  network: "testnet"  # Use testnet for development, mainnet for production
